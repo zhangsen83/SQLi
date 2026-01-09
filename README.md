@@ -12,7 +12,7 @@ This study compares the efficacy of traditional Machine Learning (Random Forest)
 ## 🚀 How to Run
 1. Open the `SQLi_Detection_System.ipynb` file in this repository.
 2. Click the "Open in Colab" badge (if available) or download the file to Google Colab.
-3. Download the .zip file ( ) for the dataset
+3. Download the .zip file (`SQLi.zip`) and extract it to get the dataset files.
 4. Upload the three dataset files (`sqli.csv`, `sqliv2.csv`, `SQLiV3.csv`)  to the Colab session storage. (If you encounter some files in Sample Data folder, delete the files.)
 5. Run all cells to produce the results. (Result will be difference based on the computational performances)
 
